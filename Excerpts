@@ -1,1 +1,4 @@
-
+1. To package a maven project to war , add build plugins to maven
+2. To use embedded tomcat use tomcat jasper jar/for stand alone tomcat use tomcat starter with scope provided
+3. To execute in command prompt use "package" to build, "spring-boot-run" to run
+4. @EnableAutoConfiguation, @ComponentScan can be replaced with @SpringBootApplication
